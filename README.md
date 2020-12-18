@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-My name is Leandro Simões, but you can call me **Le**. I'm Software Developer from Brazil, former lecturer and hold a master's degree in Computer Science from UFJF.
+My name is Leandro Simões, but you can call me **Le**. I'm Software Developer from Brazil, Assistant Professor and hold a master's degree in Computer Science from the UFJF.
 
 #### Some facts about me:
 
