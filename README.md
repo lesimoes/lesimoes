@@ -5,10 +5,10 @@ My name is Leandro Simões, but you can call me **Le**. I'm Software Developer f
 
 #### Some facts about me:
 
-- I built software solutions to huge private companies of retail and e-commerce and public entities like UFJF/CNPq 🔨
-- I published scientific papers in national and international events in Software Engineering 📋
+- I built software solutions to huge private companies and public entities like UFJF/CNPq 🔨
+- I published scientific papers in national and international conferences in Software Engineering 📋
 - I have been working completely remote since 2018 💻 
-- Last year I adopted a cute dog call Lady 🐕
+- I'm a dog person 🐕
 - I love chinese food 🍜
 
 #### Other places you can find me:
