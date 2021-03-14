@@ -1,15 +1,17 @@
 ### Hello there 👋
 
 
-My name is Leandro Simões, but you can call me **Le**. I'm Software Developer from Brazil, Assistant Professor and hold a master's degree in Computer Science from the UFJF.
+My name is Leandro Simões, but you can call me **Le**. I'm Software Developer from Brazil, Assistant Professor and hold a master's degree in Computer Science from UFJF. 
 
 #### Some facts about me:
 
-- I built software solutions to huge private companies and public entities like UFJF/CNPq 🔨
+- I working remotely for the past 3 years in web applications projects 💻
 - I published scientific papers in national and international conferences in Software Engineering 📋
-- I have been working completely remote since 2018 💻 
 - I'm a dog person 🐕
-- I love chinese food 🍜
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lesimoes&count_private=true)
+
 
 #### Other places you can find me:
 
