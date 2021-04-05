@@ -5,7 +5,7 @@ My name is Leandro Simões, but you can call me **Le**. I'm Software Developer f
 
 #### Some facts about me:
 
-- I working remotely for the past 3 years in web applications projects 💻
+- I've been work remotely for the last 3 years in web applications projects 💻
 - I published scientific papers in national and international conferences in Software Engineering 📋
 - I'm a dog person 🐕
 
