@@ -12,7 +12,6 @@ My name is Leandro Simões, but you can call me **Le**. I'm Software Developer f
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lesimoes&count_private=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=arturthomas&count_private=true)
 
 
 #### Other places you can find me:
