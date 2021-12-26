@@ -30,6 +30,14 @@ If you are having problems with SQS limit message size and working with Node/Typ
 https://www.npmjs.com/package/sqs-huge-message
 
 
+#### Shaolim - The Bot
+
+Or maybe you are a professor and look for a way to engage your students. Yeah, I know! Some times it's a tough task, right? Maybe you could get some ideas from my project **Shaolim**, its a discord bot that help students find recorded classes (or other learning resources).
+
+https://github.com/Faculdade-Metodista-Granbery/ShaolimBot
+
+
+
 #### Other places you can find me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)
