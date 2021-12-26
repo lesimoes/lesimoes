@@ -13,6 +13,22 @@ My name is Leandro Simões, but you can call me **Le**. I'm Software Developer f
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lesimoes&count_private=true)
 
 
+#### My Projects
+
+#### Firma
+
+<p align="center" >
+<img src="https://raw.githubusercontent.com/lesimoes/firma-frontend/main/src/assets/logo.png" width="200" height="120"/>
+</p>
+
+I've been working on a new project called Firma, it's a tool for engage employees help each others and help charity institutions. Feel free to join in this trip with me 😁: https://github.com/users/lesimoes/projects/1
+
+
+#### SQS Huge Message
+
+If you are having problems with SQS limit message size and working with Node/Typescript, maybe my package could help you. 
+https://www.npmjs.com/package/sqs-huge-message
+
 
 #### Other places you can find me:
 
