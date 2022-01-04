@@ -31,7 +31,7 @@ I've been working on new project called Firma, it's a tool for engage employees 
 <img src="https://raw.githubusercontent.com/lesimoes/firma-frontend/main/src/assets/logo.png" width="100" height="60"/>
 </p>
 
-https://github.com/users/lesimoes/projects/1
+https://github.com/firma-project
 
 
 #### SQS Huge Message
