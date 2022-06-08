@@ -3,11 +3,11 @@
 
 My name is Leandro Simões, but you can call me **Le**. I'm Software Developer from Brazil, Assistant Professor and hold a master's degree in Computer Science from UFJF.
 
-I've been working with **Node**, **Typescript**, **React**, **AWS**, but I have interests in other languages like **Rust** or **Vala** (and someday I would like to contributing with Pop Os or Elementary OS - maybe would be my next project). 
+I've been working with **Node**, **Typescript**, **React**, **AWS**, but I have interests in other languages like **Rust** or **Vala**.
 
 #### Some facts about me:
 
-- I've been working remotely for the last 4 years in web applications projects 💻
+- I've been working remotely for the last 5 years in web applications projects 💻
 - I published scientific papers in national and international conferences in Software Engineering 📋
 - I adopted a cute shelter dog: Lady 🐕
 
@@ -22,16 +22,6 @@ I've been working with **Node**, **Typescript**, **React**, **AWS**, but I have 
 
 
 ### My Projects
-
-#### Firma
-
-I've been working on new project called Firma, it's a tool for engage employees help each others and help charity institutions. Feel free to join in this trip with me 😁
-
-<p align="center" >
-<img src="https://raw.githubusercontent.com/lesimoes/firma-frontend/main/src/assets/logo.png" width="100" height="60"/>
-</p>
-
-https://github.com/firma-project
 
 
 #### SQS Huge Message
