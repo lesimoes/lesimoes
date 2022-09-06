@@ -11,16 +11,23 @@
 
 My name is Leandro Simões, but you can call me **Le**. I'm Software Developer from Brazil, Assistant Professor and hold a master's degree in Computer Science from UFJF.
 
-I've been working with **Node**, **Typescript**, **React**, **AWS**. Currently I'm working on side projects with **GTK+** and **Gatsby**.
+I've been working with **Node**, **Typescript**, **React**, **React Native** and **AWS**.
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)](https://www.linkedin.com/in/leandro-sim%C3%B5es-msc-98993428/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-orange?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/5484299/lesimoes)](https://stackoverflow.com/users/5484299/lesimoes)
-[![Research Gate Badge](https://img.shields.io/badge/-ResearchGate-brigthgreen?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Leandro_Simoes3)](https://www.researchgate.net/profile/Leandro_Simoes3)
+<div align="center">
+  <a href="https://www.youtube.com/c/lesimoes?sub_confirmation=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/lesimoess/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/5484299/lesimoes" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="stackoverflow logo"  />
+  </a>
+</div>
 
-
-### Info ++
+###
 
 
 <div align="center">
@@ -28,7 +35,7 @@ I've been working with **Node**, **Typescript**, **React**, **AWS**. Currently I
   <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=lesimoes&repo=COVID-MG&show_icons=true" alt="My github stats">
   <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=lesimoes&repo=ShaolimBot&show_icons=true" alt="My github stats">
 </div>
-  <img align="left" width="33%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lesimoes&layout=compact&langs_count=10" alt="My github stats">
+
 
 
 
