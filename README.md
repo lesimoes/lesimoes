@@ -9,7 +9,7 @@
 
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=lesimoes&count_private=true&show_icons=true" alt="My github stats">
 
-My name is Leandro Simões, but you can call me **Le**. I'm Software Developer from Brazil, former Assistant Professor and hold a master's degree in Computer Science from UFJF.
+My name is Leandro Simões, but you can call me **Le**. I'm Software Engineer from Brazil, former Assistant Professor and hold a master's degree in Computer Science from UFJF.
 
 I've been working with **Node**, **Typescript**, **React**, **React Native**, **AWS**, **DDD** and a lot of cool things for the past decade. I had work for the past 6 years as a Professor (Teacher) in some Univercities in Brazil. 
 
