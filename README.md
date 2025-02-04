@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <h1>lesimoes</h1>
+  <h1>Leandro Simões</h1>
   <h3>😎 Software Engineer and Founder at Nuai</h3><br>
 </div>
 
