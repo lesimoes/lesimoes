@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>Leandro Simões</h1>
-  <h3>😎 Software Engineer/h3><br>
+  <h3>😎 Software Engineer</h3><br>
 </div>
 
 
