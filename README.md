@@ -31,10 +31,10 @@ With 10+ years of experience, I’ve shipped products for startups, led engineer
 
 
 
-## 📫 Hit me up
+## Hit me up
 
-- 🌐 [lesimoes.dev](https://github.com/lesimoes)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/lesimoess/)  
+- [lesimoes.dev](https://github.com/lesimoes)  
+- [LinkedIn](https://www.linkedin.com/in/lesimoess/)  
 
 
 Let’s build cool stuff together 🚀
