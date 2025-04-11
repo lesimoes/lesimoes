@@ -8,13 +8,34 @@
 </div>
 
 
+Hey! I'm Leandro — a software engineer who loves building things that *actually* solve problems.
+
+With 10+ years of experience, I’ve shipped products for startups, led engineering teams, and even co-founded a tech company.
+
+---
+
+## Tech I’m fan (but not limited to)
+
+- TypeScript (We can always use any or unknown)
+- AWS & Self hosted addiction (things should run outside of my machine)
+- Docker (I'm lazy enough to settuping VPS)
+- OpenTelemetry (yes, I like seeing what my code is doing)  
+
+## Some open source projects
+
+- [Clean-node: List all "node_modules" directories using multi-thread ability of Node environment](https://github.com/lesimoes/clean-node)
+- [Diagnosis Chatbot: A chatbot that can identify health problems based on symptoms](https://github.com/lesimoes/diagnosis-chatbot)
+- [SQS Huge Message: Handle the size limitation of AWS SQS messages](https://github.com/lesimoes/sqs-huge-message)
+- [Covid-MG Data: A architecture solution to get and save data from Minas Gerais Government](https://github.com/lesimoes/COVID-MG)
+- [ClipSave: Mac app to save text, files and shortcuts.](https://github.com/lesimoes/clip-save)
 
 
 
+## 📫 Hit me up
+
+- 🌐 [lesimoes.dev](https://github.com/lesimoes)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lesimoess/)  
 
 
-
-
-
-
+Let’s build cool stuff together 🚀
 
