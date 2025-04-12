@@ -23,17 +23,17 @@ With 10+ years of experience, I’ve shipped products for startups, led engineer
 
 ## Some open source projects
 
-- [Clean-node: List all "node_modules" directories using multi-thread ability of Node environment](https://github.com/lesimoes/clean-node)
-- [Diagnosis Chatbot: A chatbot that can identify health problems based on symptoms](https://github.com/lesimoes/diagnosis-chatbot)
-- [SQS Huge Message: Handle the size limitation of AWS SQS messages](https://github.com/lesimoes/sqs-huge-message)
-- [Covid-MG Data: A architecture solution to get and save data from Minas Gerais Government](https://github.com/lesimoes/COVID-MG)
-- [ClipSave: Mac app to save text, files and shortcuts.](https://github.com/lesimoes/clip-save)
+- Clean-node: List all "node_modules" directories using multi-thread ability of Node environment [Link](https://github.com/lesimoes/clean-node)
+- Diagnosis Chatbot: A chatbot that can identify health problems based on symptoms [Link](https://github.com/lesimoes/diagnosis-chatbot)
+- SQS Huge Message: Handle the size limitation of AWS SQS messages [Link](https://github.com/lesimoes/sqs-huge-message)
+- Covid-MG Data: A architecture solution to get and save data from Minas Gerais Government [Link](https://github.com/lesimoes/COVID-MG)
+- ClipSave: Mac app to save text, files and shortcuts [Link](https://github.com/lesimoes/clip-save)
 
 
 
 ## Hit me up
 
-- [lesimoes.dev](https://github.com/lesimoes)  
+- [lesimoes.com](https://lesimoes.com)  
 - [LinkedIn](https://www.linkedin.com/in/lesimoess/)  
 
 
