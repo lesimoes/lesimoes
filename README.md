@@ -10,7 +10,7 @@
 
 Hey! I'm Leandro — a software engineer who loves building things that *actually* solve problems.
 
-With 10+ years of experience, I’ve shipped products for startups, led engineering teams, and even co-founded a tech company.
+With 10 years of experience, I’ve shipped products for startups, led engineering teams, and even co-founded a tech company.
 
 ---
 
