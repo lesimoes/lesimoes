@@ -23,6 +23,7 @@ With 10 years of experience, I’ve shipped products for startups, led engineeri
 
 ## Some open source projects
 
+- **otel-embedder**: Worker to pool logs from Loki and embeds [Link](https://github.com/lesimoes/otel-embedder)
 - **Clean-node**: List all "node_modules" directories using multi-thread ability of Node environment [Link](https://github.com/lesimoes/clean-node)
 - **Diagnosis AI**: A pipeline with LLM models that can identify health problems based on symptoms [Link](https://github.com/lesimoes/diagnosis-chatbot)
 - **SQS Huge Message**: Handle the size limitation of AWS SQS messages [Link](https://github.com/lesimoes/sqs-huge-message)
