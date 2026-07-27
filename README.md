@@ -8,18 +8,12 @@
 </div>
 
 
-Hey! I'm Leandro — a software engineer who loves building things that *actually* solve problems.
+Hey! I'm Leandro, a software engineer who loves building things that *actually* solve problems.
 
-With 10 years of experience, I’ve shipped products for startups, led engineering teams, and even co-founded a tech company.
+With 10+ years of experience, I’ve shipped products for startups, led engineering teams, and even co-founded a tech company.
 
 ---
 
-## Tech I’m fan (but not limited to)
-
-- TypeScript (We can always use any or unknown)
-- AWS & Self hosted addiction (things should run outside of my machine)
-- Docker (I'm lazy enough to settuping VPS)
-- OpenTelemetry (yes, I like seeing what my code is doing)  
 
 ## Some open source projects
 
